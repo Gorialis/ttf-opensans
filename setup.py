@@ -23,7 +23,7 @@ from setuptools import setup
 
 
 ROOT = pathlib.Path(__file__).parent
-VERSION = "2020.10.29"
+VERSION = "2020.10.30"
 
 # 3.5 and lower doesn't support using pathlib.Path objects directly in open
 with open(str(ROOT / 'README.rst'), 'r', encoding='utf-8') as f:
