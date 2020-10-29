@@ -1,0 +1,12 @@
+include LICENSE
+include MANIFEST.in
+include ttf_opensans/ttf/OpenSans-Bold.ttf
+include ttf_opensans/ttf/OpenSans-BoldItalic.ttf
+include ttf_opensans/ttf/OpenSans-ExtraBold.ttf
+include ttf_opensans/ttf/OpenSans-ExtraBoldItalic.ttf
+include ttf_opensans/ttf/OpenSans-Italic.ttf
+include ttf_opensans/ttf/OpenSans-Light.ttf
+include ttf_opensans/ttf/OpenSans-LightItalic.ttf
+include ttf_opensans/ttf/OpenSans-Regular.ttf
+include ttf_opensans/ttf/OpenSans-SemiBold.ttf
+include ttf_opensans/ttf/OpenSans-SemiBoldItalic.ttf
